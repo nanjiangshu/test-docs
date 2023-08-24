@@ -1,5 +1,5 @@
 site_name: NeIC SDA Operations handbook
-extra_css: [css/neic-sda.css]
+extra_css: [docs/css/neic-sda.css]
 markdown_extensions:
   - callouts
 plugins:
